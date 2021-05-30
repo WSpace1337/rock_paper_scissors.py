@@ -3,7 +3,7 @@ from colorama import init, Fore, Back, Style
 from termcolor import colored
 import os
 import time
-
+#гавно код by ykraincki :3
 init(autoreset=True)
 
 clear = lambda: os.system('cls')
